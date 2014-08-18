@@ -1,5 +1,6 @@
 {
   "run_list": [
+    "recipe[ack]",
     "recipe[localedef]",
     "recipe[yum]",
     "recipe[remi]",

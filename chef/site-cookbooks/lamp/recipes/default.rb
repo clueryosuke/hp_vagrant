@@ -21,6 +21,7 @@ packages = %w{
     mod_ssl
     php54
     php54-pdo
+    php54-mbstring
     php54-common
     php54-xml
     php54-mysql
